@@ -1,21 +1,16 @@
 <div align="center">
-  <img src="public/images/common/readme_profile.png" alt="profile" width="200" style="border-radius: 50%;" />
+  <img src="public/images/profile.png" alt="profile" width="200" style="border-radius: 50%;" />
   
   ### 안녕하세요! 👋 
-  프론트엔드 개발자 TazoAl입니다.
+  프론트엔드 개발자 장원정입니다.
   
-  [![Blog](https://img.shields.io/badge/Blog-FF540F?style=for-the-badge&logo=blogger&logoColor=white)](https://tazoal.github.io)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TazoAl)
+  [![Blog](https://img.shields.io/badge/Blog-FF540F?style=for-the-badge&logo=blogger&logoColor=white)](https://tazo-al.github.io)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tazo-al)
 </div>
 
 ## 📝 최신 포스트
 
-<!-- BLOG-POST-LIST:START -->
-
-- [포스트 제목 1](포스트 링크 1)
-- [포스트 제목 2](포스트 링크 2)
-- [포스트 제목 3](포스트 링크 3)
-<!-- BLOG-POST-LIST:END -->
+- [JavaScript 모듈: IIFE에서 CommonJS, AMD, ES 모듈까지](https://tazo-al.github.io/posts/js-module)
 
 ## 🛠 Tech Stack
 
