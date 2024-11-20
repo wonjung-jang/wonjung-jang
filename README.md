@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tazo-al/tazo-al.github.io/main/public/images/profile.png" alt="profile" width="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/tazo-al/tazo-al/main/public/images/profile.png" alt="profile" width="200" style="border-radius: 50%;" />
   
   ### 안녕하세요! 👋 
   프론트엔드 개발자 장원정입니다.
