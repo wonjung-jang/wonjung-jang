@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden">
-    <img src="./public/images/profile.png" alt="profile" width="200" />
-  </div>
+  <img src="./public/images/profile.png" alt="profile" width="200" style="border-radius: 50%; />
   
   ### 안녕하세요! 👋 
   프론트엔드 개발자 장원정입니다.
