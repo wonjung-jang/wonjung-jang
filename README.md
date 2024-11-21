@@ -1,7 +1,9 @@
 
 ### 안녕하세요! 👋 
 프론트엔드 개발자 장원정입니다.
-![](https://komarev.com/ghpvc/?username=tazo-al)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tazo-al&style=flat-square&color=blue" alt=""/>
+</div>
   
 [![Blog](https://img.shields.io/badge/Blog-FF540F?style=for-the-badge&logo=blogger&logoColor=white)](https://tazo-al.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tazo-al)
