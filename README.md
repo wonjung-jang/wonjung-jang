@@ -11,6 +11,8 @@
 ### 📝 최근 포스트
 
 - [JavaScript 모듈: IIFE에서 CommonJS, AMD, ES 모듈까지](https://tazo-al.github.io/posts/js-module)
+- [자바스크립트의 비교](https://tazo-al.github.io/posts/js-comparison)
+- [자바스크립트는 인터프리터 언어일까? 컴파일 언어일까?](https://tazo-al.github.io/posts/js-execution-process)
 
 ### 🛠 Tech Stack
 
