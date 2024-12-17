@@ -8,12 +8,6 @@
 [![Blog](https://img.shields.io/badge/Blog-FF540F?style=for-the-badge&logo=blogger&logoColor=white)](https://tazo-al.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tazo-al)
 
-### 📝 최근 포스트
-
-- [JavaScript 모듈: IIFE에서 CommonJS, AMD, ES 모듈까지](https://tazo-al.github.io/posts/js-module)
-- [자바스크립트의 비교](https://tazo-al.github.io/posts/js-comparison)
-- [자바스크립트는 인터프리터 언어일까? 컴파일 언어일까?](https://tazo-al.github.io/posts/js-execution-process)
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
