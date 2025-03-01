@@ -5,6 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=tazo-al&style=flat-square&color=blue" alt=""/>
 </div>
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
+</a>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tazo-al)
 
 ### 🛠 Tech Stack
