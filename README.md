@@ -1,6 +1,6 @@
 
 ### 안녕하세요! 👋 
-프론트엔드 개발자 장원정입니다.
+개발자 장원정입니다.
 <div>
   <img src="https://komarev.com/ghpvc/?username=tazo-al&style=flat-square&color=blue" alt=""/>
 </div>
