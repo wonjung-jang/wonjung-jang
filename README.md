@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=tazo-al&style=flat-square&color=blue" alt=""/>
 </div>
 
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
-</a>
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
